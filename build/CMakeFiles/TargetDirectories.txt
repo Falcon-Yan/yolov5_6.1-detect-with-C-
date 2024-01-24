@@ -1,4 +1,0 @@
-/home/yan/workspace/OpenCVprojects/YOLOv5_6.1/build/CMakeFiles/yolov5.dir
-/home/yan/workspace/OpenCVprojects/YOLOv5_6.1/build/CMakeFiles/main.out.dir
-/home/yan/workspace/OpenCVprojects/YOLOv5_6.1/build/CMakeFiles/edit_cache.dir
-/home/yan/workspace/OpenCVprojects/YOLOv5_6.1/build/CMakeFiles/rebuild_cache.dir
